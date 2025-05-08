@@ -5,7 +5,7 @@ Tags: safe mode, recovery, troubleshooting, debugging, debug
 Text Domain: wp-safe-mode
 Requires PHP : 5.2.6
 Requires at least: 4.6
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: 1.3
 
 Disable plugins or switch themes for just you or the whole site for debugging, troubleshooting or accessing and restoring a broken website.
